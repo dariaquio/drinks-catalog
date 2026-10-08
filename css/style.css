@@ -153,7 +153,7 @@ main > section {
   font-weight: 500;
 }
 
-.card:hover {
+.card a:hover {
   background-color: #2491a0;
 }
 
@@ -190,6 +190,7 @@ aside#recipe-details ul {
 
 
 footer {
+
   text-align: center;
   border-top: 1px solid #dddddd;
   padding-top: 15px;
